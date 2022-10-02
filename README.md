@@ -1,7 +1,7 @@
 # Student-Management-System
 __Prerequisites__
 
-Step 1) You need to install libraries writtedn in code
+Step 1) You need to install libraries writted at the begning of the code
 
 __-> Database will automatically appear when you insert your first entry__ 
 
