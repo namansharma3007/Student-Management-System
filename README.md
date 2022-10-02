@@ -1,2 +1,2 @@
 # Student-Management-System
-*KJDSbcskj
+__Prerequisites__
